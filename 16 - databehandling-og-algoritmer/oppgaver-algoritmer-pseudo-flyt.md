@@ -26,4 +26,8 @@ Svar: 1 og 3
 
 ## Oppgave 7
 
-Svar: 
+Svar: 3
+
+## Oppgave 8
+
+Svar: 3
