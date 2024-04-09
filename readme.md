@@ -1,7 +1,9 @@
 # IT2 - 23/24
 
-- Mappe for IT2.
+- [Mappe for IT2](./1%20-%20Mappeinnlevering/oversikt-mappe.md).
 - Frist: 5.april
+
+
 
 ## Viktige datoer
 
