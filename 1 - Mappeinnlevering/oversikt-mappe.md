@@ -107,6 +107,28 @@ TODO Lim inn lenke til oppgavebesvarelser på github.
 
 #### Mine tilbakemeldinger
 
+##### Tilbakemelding #1
+
+**Prosjekt:** Flappy Bird-spillet
+**Bruker:** Mann 23 år, student, bosatt i Trondheim, glad i å game på playstation
+**Tilbakemelding:** "Jeg synes bakgrunnen beveger seg for sakte i forhold til fuglens hastighet."
+**Tiltak:** Økte hastigheten på bakgrunnen slik at den beveger seg mer i takt med fuglens flyving.
+
+##### Tilbakemelding #2
+
+**Prosjekt:** Flappy Bird-spillet
+**Bruker:** Dame 49 år, mamma, bosatt i Asker, jobber, liker å være på mobilen og lese nyheter på skjermen
+**Tilbakemelding:** "Jeg føler at spillet mangler bakgrunnfarge for å gi mer effekt."
+**Tiltak:** Lagt til en bakgrunnfarge for å forbedre den visuelle opplevelsen og gi spillet mer effekt.
+
+##### Tilbakemelding #3
+
+**Prosjekt:** Flappy Bird-spillet
+**Bruker:** Jente 10 år, går på barneskolen, bosatt i Oslo, foretrekker minispill på iPaden
+**Tilbakemelding:** "Jeg skulle ønske jeg kunne starte spillet på nytt i stedet for at spillet bare avslutter når jeg dør."
+**Tiltak:** Lagt til en spillmeny der spilleren kan starte spillet på nytt etter å ha dødd, noe som gir en bedre spillopplevelse.
+
+
 TODO Skriv minst tre tilbakemeldinger her
 
 #### Eksempler på tilbakemeldinger

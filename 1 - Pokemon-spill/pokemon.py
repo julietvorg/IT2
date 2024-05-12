@@ -11,4 +11,5 @@ class Pokemon:
     def __str__(self):
         return f"Pokemon ID: {self.id}, English Name: {self.name_english}, Japanese Name: {self.name_japanese}, Chinese Name: {self.name_chinese}, French Name: {self.name_french}, Types: {self.types}, Base Stats: {self.base_stats}"
     
-    
+    def get_name_and_hp(self):
+        return f"Name: {self.name_english}, HP: {self.base_stats['HP']}"

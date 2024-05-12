@@ -16,6 +16,8 @@ with open("pokemon.json", "r", encoding="utf-8") as fil:
 
 pokemoner = []
 
+trenere_liste = [Trener("Julie"), Trener("Sibilla"), Trener("Maya")]
+
 for pokemon_data in pokemoner_data:
     ny_pokemon = Pokemon(pokemon_data)
     pokemoner.append(ny_pokemon)
@@ -39,12 +41,14 @@ while True:
         print("Liste over alle trenere:")
         for trener in trenere_liste:
             print(trener)
+        input("Trykk enter for å gå tilbake til hovedmenyen")
     elif brukervalg == "3":
         print("Legg til trener")
         navn = input("Hva er navnet på treneren?")
         ny_trener = Trener(navn)
         trenere_liste.append(ny_trener)
         print(f"{navn} har blitt lagt til som trener med en tom liste av Pokémon.")
+        input("Trykk enter for å gå tilbake til hovedmenyen")
     elif brukervalg == "4":
         print("Avslutter")
         break 
